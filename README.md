@@ -22,5 +22,3 @@
     <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
-
-![snake gif](https://github.com/MariaAndradeS/MariaAndradeS/blob/output/github-contribution-grid-snake.svg)
