@@ -6,10 +6,10 @@
 </div>
   
 ## 💕 Let's get connected!
-  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/maria-eduarda-andrade-da-silva-9b0351268/)
+  [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-andrade-da-silva-9b0351268/)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prettiestlady)
-  [![Whatsapp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://api.whatsapp.com/send?phone=5511988315322&text=Ol%C3%A1!)
-  [![Gmail](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:dudinhaface2013@gmail.com?subject=Olá!&body=)
+  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511988315322&text=Ol%C3%A1!)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudinhaface2013@gmail.com?subject=Olá!&body=)
   
 ## 🎀 My technologies and tools!
  <div style="display: inline_block">
