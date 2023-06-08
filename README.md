@@ -1,6 +1,6 @@
 ## 🌷 Hello everyone, welcome! I'm Maria Eduarda Andrade da Silva
 <blockquote>[PT-BR] Possuo grande disposição para o aprendizado, aprimoramento contínuo e a aplicação dos conhecimentos técnicos em informática, com grandes habilidades interpessoais, sempre buscando me desenvolver. Sou estudante de desenvolvimento de software integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo </blockquote>
-<blockquote>[EN] I have great disposition for learning, continuous improvement and application of technical knowledge in informatics, with great interpersonal skills, always seeking to develop myself. I'm a student of the technical course of software development integrated to high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</blockquote>
+<blockquote>[EN] I have great disposition for learning, continuous improvement and application of my technical knowledge in software development, with great interpersonal skills, always seeking to develop myself. I'm a student of the technical course of software development integrated to high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</blockquote>
 
 <div>
     <a href="https://github.com/MariaAndradeS">
