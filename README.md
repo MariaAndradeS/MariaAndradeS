@@ -1,8 +1,8 @@
 ## 🌷 Hello everyone, welcome! I'm Maria Eduarda Andrade da Silva
 <div>
     <a href="https://github.com/MariaAndradeS">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MariaAndradeS&show_icons=true&theme=omni"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAndradeS&layout=compact&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MariaAndradeS&show_icons=true&theme=omni"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaAndradeS&layout=compact&theme=omni"/>
 </div>
   
 ## 💕 Let's get connected!
