@@ -1,6 +1,6 @@
 ## 🌷 Hello everyone, welcome! I'm Maria Eduarda Andrade da Silva
-<blockquote>[PT-BR] Possuo grande disposição para o aprendizado, aprimoramento contínuo e a aplicação dos conhecimentos técnicos em informática, com grandes habilidades interpessoais, sempre buscando me desenvolver. Sou estudante de desenvolvimento de software integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo </blockquote>
-<blockquote>[EN] I have great disposition for learning, continuous improvement and application of my technical knowledge in software development, with great interpersonal skills, always seeking to develop myself. I'm a student of the technical course of software development integrated to high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</blockquote>
+<blockquote>[PT-BR] Sou estudante de desenvolvimento de software integrado ao ensino médio no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo </blockquote>
+<blockquote>[EN] I'm a student of the technical course of software development integrated to high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</blockquote>
 
 <div>
     <a href="https://github.com/MariaAndradeS">
@@ -10,9 +10,6 @@
   
 ## 💕 Let's get connected!
   [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-andrade-da-silva-9b0351268/)
-  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/prettiestlady)
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511988315322&text=Ol%C3%A1!)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudinhaface2013@gmail.com?subject=Olá!&body=)
   
 ## 🎀 My technologies and tools!
  <div style="display: inline_block">
